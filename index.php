@@ -152,7 +152,7 @@
 										</header>
 									</article>
 									<article class="item">
-										<iframe class="image full" width="560" height="315" src="//www.youtube.com/embed/aAs99g4kTMA" frameborder="0" allowfullscreen></iframe>
+										<iframe class="image full" width="560" height="315" src="//www.youtube.com/embed/zdQie7-w3jM" frameborder="0" allowfullscreen></iframe>
 										<header>
 											<h3>Video tours</h3>
 										</header>
@@ -166,11 +166,13 @@
 								</div>
 							</div>
 							<br>
-							<a href="http://www.trulia.com/profile/KennyTruong/"><img src="http://www.trulia.com/profile/badge/1358038/trulia_profile_v05_green.png" width="160" height="35" border="0" alt="#FASTAGENT | KENNY TRUONG - Agent at MICHAEL JAMES Real Estate" /></a>
 							<br />
 							<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
 							<br>
 							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
+							<br>
+							<a href="http://www.redfin.com/real-estate-agents/kennyt?show=reviews" class="image full"><img style="width: 100%;" src="images/redfinreview.jpg" /></a>
+							<br>
 						</div>
 					</section>
 
@@ -186,12 +188,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>660 Grand Terrace</strong></h3>
+										<h3><strong>2133 E 30th St</strong></h3>
 										<ul>
-											<li>2 Bed - 2.5 Bath</li>
-											<li>1,170 Sq Ft -  1,249 Lot</li>
-											<li>List: 5/30/13 - Sold: 7/16/13</li>
-											<li>List: $319,950 - SOLD $349,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,260 Sq Ft -  2,800 Lot</li>
+											<li>List: 5/31/13 - Sold: 6/10/13</li>
+											<li>List: $389,000 - SOLD $489,000</li>
 										</ul>
 									</article>
 								</div>
@@ -199,12 +201,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>56 Trestle Drive</strong></h3>
+										<h3><strong>3171 Sheffield Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 2 Bath</li>
-											<li>1,475 Sq Ft - 0 Lot</li>
-											<li>List: 4/17/13 - Sold: 5/31/13</li>
-											<li>List: $329,000 - SOLD $370,000</li>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,948 Sq Ft - 3,160 Lot</li>
+											<li>List: 6/18/13 - Sold: 7/26/13</li>
+											<li>List: $599,000 - SOLD $550,000</li>
 										</ul>
 									</article>
 								</div>
@@ -212,12 +214,12 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>22831 Paseo Place</strong></h3>
+										<h3><strong>3006 Sheffield Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 3 Bath</li>
-											<li>1,595 Sq Ft - 0 Lot</li>
-											<li>List: 5/10/13 - Sold: 6/20/13</li>
-											<li>List: $349,950 - SOLD $405,000</li>
+											<li>3 Bed - 1 Bath</li>
+											<li>1,648 Sq Ft - 3,200 Lot</li>
+											<li>List: 7/18/13 - Sold: 7/31/13</li>
+											<li>List: $549,000 - SOLD $604,400</li>
 										</ul>
 									</article>
 								</div>
