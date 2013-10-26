@@ -86,7 +86,7 @@
 							<iframe src="http://mapsengine.google.com/map/embed?mid=zERNb6ZQT6mM.kvWX6H8LeZas" width="80%" height="480"></iframe>
 							<h3>Proven Results.</h3>
 							<small>Map portrays closed deals October 2012 - October 2013 in our local market.</small>
-							<iframe width="420" height="315" src="//www.youtube.com/embed/tHFIs9qDf5w" frameborder="0" allowfullscreen></iframe>
+							<iframe width="420" height="315" src="//http://youtu.be/vPuHVIVMaz0" frameborder="0" allowfullscreen></iframe>
 							<h3>Video Tour of Subject Property</h3>
 							<footer>
 								<a href="#portfolio" class="button scrolly">More info</a>
