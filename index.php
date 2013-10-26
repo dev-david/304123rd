@@ -186,6 +186,19 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
+										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
+										<header>
+										<h3><strong>2212 E 25th St</strong></h3>
+										<ul>
+											<li>4 Bed - 3 Bath</li>
+											<li>2,055 Sq Ft - 4,211 Lot</li>
+											<li>List: 5/29/13 - Sold: 6/7/13</li>
+											<li>List: $349,000 - SOLD $370,000</li>
+										</ul>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
 										<h3><strong>2133 E 30th St</strong></h3>
@@ -201,7 +214,7 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>3171 Sheffield Ave</strong></h3>
+										<h3><strong>3171 Sheffield Ave (Desirable Neighborhood)</strong></h3>
 										<ul>
 											<li>3 Bed - 1 Bath</li>
 											<li>1,948 Sq Ft - 3,160 Lot</li>
@@ -210,19 +223,7 @@
 										</ul>
 									</article>
 								</div>
-								<div class="4u">
-									<article class="item">
-										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
-										<header>
-										<h3><strong>3006 Sheffield Ave</strong></h3>
-										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,648 Sq Ft - 3,200 Lot</li>
-											<li>List: 7/18/13 - Sold: 7/31/13</li>
-											<li>List: $549,000 - SOLD $604,400</li>
-										</ul>
-									</article>
-								</div>
+								
 							</div>
 							<br />
 							<a href="images/compdata.png" class="image full fancybox"><img style="width: 100%;" src="images/compdata.png" /></a>
